@@ -1,0 +1,67 @@
+form{
+
+  size: 50px;
+  color: rgb(0, 0, 0);
+  height: 500px;
+position: absolute;
+left: 100px;
+font-size: large;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 300;
+top: 50px;
+font-display:inherit;
+border-color: black;
+border-radius: 20px;
+background-color: rgb(234, 46, 165);
+
+}
+h2{
+  position: absolute;
+  left: 100px;
+  color: rgb(113, 20, 199);
+  
+}
+input{
+  display: block;
+  width: 200px;
+  margin-bottom: 1rem;
+  text-align: center;
+
+  font-size: 15px;
+}
+button{
+
+  border-radius: 50px;
+  color: rgb(0, 0, 0);
+  size: 500px;
+  background-color: rgb(43, 43, 226);
+  font-size: 25px;
+  position: absolute;
+  top: 450px;
+  left: 50px;
+
+}
+table{
+  width: 50%;
+  position: absolute;
+  left: 700px;
+
+
+
+}
+th,td{
+  border: 1px solid rgba(0, 0, 0, 0.867);
+  padding: 8px;
+  size: 20px;
+}
+th{
+  padding-bottom: 12px;
+  padding-top: 12px;
+  background-color: rgb(97, 13, 200);
+  text-align: center;
+  
+
+}
+item.color{
+  background-color: color;
+}
